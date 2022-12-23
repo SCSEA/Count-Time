@@ -31,7 +31,7 @@ def countdown(t):
 		time.sleep(1)
 		t -= 1
 	
-	print('Thank you for ysing this Tool...!!')
+	print('Thank you for using this Tool...!!')
 
 
 # input time in seconds
