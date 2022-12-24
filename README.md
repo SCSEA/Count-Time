@@ -16,4 +16,9 @@ cd Count-Time
 
 python3 count-time.py
 
-# Please Follow me Thank you...
+# Support Please Follow me Thank you...
+
+
+Bitcoin Address:
+
+bnb1ruya90hx4fgedwdtl46dade5m08d3danndhd3n
