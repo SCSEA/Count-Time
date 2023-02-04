@@ -19,6 +19,6 @@ python3 count-time.py
 # Support Please Follow me Thank you...
 
 
-Bitcoin Address:
+Donation:
 
-bnb1ruya90hx4fgedwdtl46dade5m08d3danndhd3n
+https://www.buymeacoffee.com/junioprogrammer
