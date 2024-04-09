@@ -10,15 +10,8 @@ pkg install git
 
 pkg install python3
 
-git clone https://github.com/Yousuf9963/Count-Time.git
+git clone https://github.com/SCSEA/Count-Time.git
 
 cd Count-Time
 
 python3 count-time.py
-
-# Support Please Follow me Thank you...
-
-
-Donation:
-
-https://www.buymeacoffee.com/junioprogrammer
